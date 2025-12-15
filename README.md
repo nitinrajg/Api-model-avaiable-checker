@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
----
+
 
 ## ⭐ Why this project?
 
@@ -24,7 +24,7 @@ New models are released, old ones get deprecated, and dashboards differ across p
 
 This is a **developer-first utility**, built to be practical, fast, and readable.
 
----
+
 
 ## ✨ Key Features
 
@@ -36,7 +36,7 @@ This is a **developer-first utility**, built to be practical, fast, and readable
 * 🔐 **API keys never stored**
 * ⚡ **Raw REST APIs (no SDKs required)**
 
----
+
 
 ## 🖼 Screenshots
 
@@ -50,7 +50,7 @@ This is a **developer-first utility**, built to be practical, fast, and readable
 
 📌 Tip: create a `screenshots/` folder and drop images there.
 
----
+
 
 ## 🚀 Getting Started
 
@@ -78,7 +78,7 @@ streamlit run ai_model_checker.py
 
 Open the local URL shown in your terminal.
 
----
+
 
 ## 🧪 How to Use
 
@@ -90,7 +90,7 @@ Open the local URL shown in your terminal.
 
 That’s it — no extra configuration.
 
----
+
 
 ## 📊 Example Output
 
@@ -99,7 +99,7 @@ That’s it — no extra configuration.
 | 1 | gpt-5.2-chat-latest | system           | 10 Dec 2025 |
 | 2 | gpt-4o-mini         | openai           | 03 Nov 2024 |
 
----
+
 
 ## 🔐 Security & Privacy
 
@@ -108,7 +108,7 @@ That’s it — no extra configuration.
 * No environment variables required
 * Requests go **directly from your machine** to the provider
 
----
+
 
 ## 🧠 Design Philosophy
 
@@ -118,7 +118,7 @@ That’s it — no extra configuration.
 * Make the tool **extendable**
 * Feel like a **real internal dashboard**, not a demo
 
----
+
 
 ## 🛠 Built With
 
@@ -129,7 +129,7 @@ That’s it — no extra configuration.
 
 No SDK lock-in. No hidden magic.
 
----
+
 
 ## 🔮 Roadmap / Ideas
 
@@ -141,7 +141,7 @@ No SDK lock-in. No hidden magic.
 * Additional providers (Together, Azure, Anthropic)
 * Hosted demo (Streamlit Cloud / HF Spaces)
 
----
+
 
 ## 🤝 Who should use this?
 
@@ -151,7 +151,7 @@ No SDK lock-in. No hidden magic.
 * Hackathon teams
 * Anyone who wants **fast visibility** into LLM models
 
----
+
 
 ## ⭐ Support the Project
 
@@ -163,13 +163,13 @@ If you find this useful:
 
 Stars help signal that this tool is valuable to the community 🙌
 
----
+
 
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
 
----
+
 
 ### 💬 Final note
 
