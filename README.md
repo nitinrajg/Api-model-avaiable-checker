@@ -57,6 +57,7 @@ This is a **developer-first utility**, built to be practical, fast, and readable
   * OpenAI
   * Groq
   * Google Gemini
+  * Cerebras
 
 ### Install dependencies
 
@@ -81,7 +82,7 @@ Try the app live here:
 
 ## 🧪 How to Use
 
-1. Select a provider (OpenAI / Gemini / Groq)
+1. Select a provider (OpenAI / Gemini / Groq / Cerebras)
 2. Paste your API key
 3. Click **Fetch Models**
 4. Models are shown **newest → oldest**

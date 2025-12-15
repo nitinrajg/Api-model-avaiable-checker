@@ -85,8 +85,13 @@ PROVIDERS = {
     "Gemini": {
         "url": "https://generativelanguage.googleapis.com/v1/models",
         "auth": "query"
+    },
+    "Cerebras": {
+        "url": "https://api.cerebras.ai/v1/models",
+        "auth": "bearer"
     }
 }
+
 
 # --------------------------------------------------
 # User inputs
@@ -107,12 +112,13 @@ fetch = st.button("Fetch Models")
 # Small helper for dates
 # --------------------------------------------------
 def readable_time(ts):
-    if ts is None:
+    if not ts or ts <= 0:
         return "N/A"
     try:
         return datetime.fromtimestamp(ts).strftime("%d %b %Y")
     except Exception:
         return "N/A"
+
 
 # --------------------------------------------------
 # Main logic when the button is pressed
@@ -149,7 +155,10 @@ if fetch:
     models = data.get("data") or data.get("models") or []
 
     # Sort newest first
-    models.sort(key=lambda m: m.get("created", 0), reverse=True)
+    models.sort(
+    key=lambda m: m.get("created") if m.get("created") else -1,
+    reverse=True
+    )
 
     st.markdown("<hr>", unsafe_allow_html=True)
     st.success(f"Showing {len(models)} models")
