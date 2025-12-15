@@ -40,8 +40,8 @@ This is a **developer-first utility**, built to be practical, fast, and readable
 ## 🖼 Screenshots
 
 ```md
-[Dashboard Overview](screenshots/dashboard.png)
-![Models Table](screenshots/models-table.png)
+![Dashboard Overview](https://github.com/nitinrajg/Api-model-avaiable-checker/blob/main/screenshots/dashboard.png)
+![Models Table](https://github.com/nitinrajg/Api-model-avaiable-checker/blob/main/screenshots/models-table.png)
 ```
 
 
