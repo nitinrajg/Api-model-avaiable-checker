@@ -30,7 +30,6 @@ This is a **developer-first utility**, built to be practical, fast, and readable
 
 * 🔍 **Unified model explorer** (OpenAI / Gemini / Groq)
 * 🗂 **Sorted by latest → oldest**
-* 🔎 **Instant search**
 * 📊 **Column-based professional layout**
 * 🎨 **Clean, dashboard-style UI**
 * 🔐 **API keys never stored**
@@ -40,16 +39,10 @@ This is a **developer-first utility**, built to be practical, fast, and readable
 
 ## 🖼 Screenshots
 
-> Add screenshots here after running the app locally
-
 ```md
-![Dashboard Overview](screenshots/dashboard.png)
+[Dashboard Overview](screenshots/dashboard.png)
 ![Models Table](screenshots/models-table.png)
-![Search Filter](screenshots/search.png)
 ```
-
-📌 Tip: create a `screenshots/` folder and drop images there.
-
 
 
 ## 🚀 Getting Started
@@ -85,8 +78,7 @@ Open the local URL shown in your terminal.
 1. Select a provider (OpenAI / Gemini / Groq)
 2. Paste your API key
 3. Click **Fetch Models**
-4. Search or browse models
-5. Models are shown **newest → oldest**
+4. Models are shown **newest → oldest**
 
 That’s it — no extra configuration.
 
@@ -134,6 +126,7 @@ No SDK lock-in. No hidden magic.
 ## 🔮 Roadmap / Ideas
 
 * Pagination for large model lists
+* instant search
 * Sticky table headers
 * Copy model ID button
 * Model capability comparison
