@@ -72,6 +72,11 @@ streamlit run ai_model_checker.py
 
 Open the local URL shown in your terminal.
 
+## 🌐 Live Demo
+
+Try the app live here:  
+👉 https://api-model-avaiable-checker.streamlit.app/
+
 
 
 ## 🧪 How to Use
