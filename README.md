@@ -1,5 +1,8 @@
 # 🧠 LLM Models Viewer
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://api-model-avaiable-checker.streamlit.app/)
+
+
 ### *One dashboard to explore LLM models across providers — fast, clean, and SDK-free.*
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
