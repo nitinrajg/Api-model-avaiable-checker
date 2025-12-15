@@ -39,8 +39,8 @@ This is a **developer-first utility**, built to be practical, fast, and readable
 
 ## 🖼 Screenshots
 
-![Dashboard Overview](https://github.com/nitinrajg/Api-model-avaiable-checker/blob/9ac9ca47e80cf02e9ed0afa291558a0ea7075a69/screenshots/dashboard.png)
-![Models Table](https://github.com/nitinrajg/Api-model-avaiable-checker/blob/9ac9ca47e80cf02e9ed0afa291558a0ea7075a69/screenshots/models-table.png)
+![Dashboard Overview](screenshots/dashboard.png)
+![Models Table](screenshots/models-table.png)
 
 
 ## 🚀 Getting Started
