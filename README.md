@@ -162,7 +162,7 @@ MIT License — free to use, modify, and distribute.
 
 
 
-### 💬 Final note
+## 💬 Final note
 
 This project is intentionally **small, focused, and practical**.
 It’s meant to save time — not add complexity.
